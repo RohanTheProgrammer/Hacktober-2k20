@@ -1,2 +1,1 @@
-# Hacktober-2k20 
-first issue
+# Hacktober-2k20
